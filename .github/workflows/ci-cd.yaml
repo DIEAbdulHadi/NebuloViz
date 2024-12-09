@@ -1,0 +1,75 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    services:
+      postgres:
+        image: postgres:13
+        env:
+          POSTGRES_USER: user
+          POSTGRES_PASSWORD: password
+          POSTGRES_DB: nebuloviz_db
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Backend Tests
+        env:
+          DATABASE_URL: postgresql://user:password@localhost:5432/nebuloviz_db
+        run: |
+          alembic upgrade head
+          pytest tests/
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install Frontend Dependencies
+        working-directory: frontend
+        run: npm install
+
+      - name: Run Frontend Tests
+        working-directory: frontend
+        run: npm test
+
+      - name: Build Docker Image
+        run: docker build -t nebuloviz-app .
+
+      - name: Push Docker Image
+        if: github.ref == 'refs/heads/main'
+        run: |
+          echo ${{ secrets.DOCKER_PASSWORD }} | docker login -u ${{ secrets.DOCKER_USERNAME }} --password-stdin
+          docker tag nebuloviz-app:latest your-docker-repo/nebuloviz-app:latest
+          docker push your-docker-repo/nebuloviz-app:latest
+
+      - name: Deploy to Production
+        if: github.ref == 'refs/heads/main'
+        run: |
+          ssh user@yourserver 'docker pull your-docker-repo/nebuloviz-app:latest && docker-compose up -d'
