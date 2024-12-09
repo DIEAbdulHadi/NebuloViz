@@ -1,5 +1,3 @@
-Let me combine the **best aspects of both versions** into one all-encompassing README. This version will balance brevity and detail, covering everything important while keeping it well-structured and accessible.
-
 ---
 
 # NebuloViz
@@ -196,6 +194,6 @@ We welcome contributions! Here’s how you can get involved:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License. See the [LICENSE](LICENSE) file for details.
 
 ---
