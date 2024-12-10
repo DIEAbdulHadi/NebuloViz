@@ -62,7 +62,7 @@
 2. Copy the environment configuration:
 
    ```bash
-   cp .env.example .env
+   cp .env
    ```
 
 3. Install backend dependencies:
