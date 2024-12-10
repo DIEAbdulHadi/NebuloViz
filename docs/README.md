@@ -178,7 +178,7 @@ NebuloViz/
 
 - **Docker**: The project is containerized using Docker. To set up the application, use the provided `docker-compose.yml` file.
 - **CI/CD Pipeline**: GitHub Actions automates testing, builds, and deployment.
-
+- **_This project is in its initial development phase and may require additional testing and integration for production use._**
 ---
 
 ## How to Contribute
