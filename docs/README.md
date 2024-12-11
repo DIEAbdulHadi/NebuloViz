@@ -1,4 +1,4 @@
-# **⚠️Project Disclaimer**
+## **⚠️Project Disclaimer⚠️**
 NebuloViz is a **production-ready application, crafted solely by me within just one week** as a passionate test of my skills. This project demonstrates my ability to build a fully operational, scalable, and maintainable system using the most modern and robust tools available in software development.
 
 Every line of code reflects my dedication to clean architecture, best practices, and efficiency. From leveraging **FastAPI, React, Kafka, and Redis to integrating AI models for predictive analytics and anomaly detection**, NebuloViz was built to tackle real-world challenges with precision and elegance.
