@@ -195,17 +195,6 @@ NebuloViz/
 
 ---
 
-## How to Contribute
-
-We welcome contributions! Here’s how you can get involved:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes and open a pull request.
-4. Follow our [contribution guidelines](docs/CONTRIBUTING.md) for detailed instructions.
-
----
-
 ## License
 
 This project is licensed under the Apache License. See the [LICENSE](LICENSE) file for details.
