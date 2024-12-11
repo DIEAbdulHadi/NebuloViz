@@ -11,12 +11,13 @@ As a solo developer, this project was a challenge I set for myself—not just to
 **NebuloViz** is an advanced sales analytics dashboard designed to provide businesses with actionable insights into their sales data. It combines real-time analytics, AI-powered predictions, and anomaly detection to help businesses make informed decisions with ease. Built on a foundation of cutting-edge technologies, NebuloViz is scalable, efficient, and highly adaptable to evolving business needs.
 
 ---
-
 ## Why NebuloViz Matters
-**Solo Effort in Record Time:** Developed in just one week by a single developer, demonstrating a balance between speed and quality.
-**Production-Ready Design:** From its architecture to implementation, the project is designed for scalability and reliability.
-**Modern Technology Stack:** Utilizes state-of-the-art libraries and frameworks for both backend and frontend development.
-**AI-Powered Capabilities:** Integrates predictive analytics, anomaly detection, and customer segmentation to provide deep, actionable insights.
+
+**Solo Effort in Record Time:**  Developed in just one week by a single developer, demonstrating a balance between speed and quality.
+**Production-Ready Design:**  From its architecture to implementation, the project is designed for scalability and reliability.
+**Modern Technology Stack:**  Utilizes state-of-the-art libraries and frameworks for both backend and frontend development.
+**AI-Powered Capabilities:**  Integrates predictive analytics, anomaly detection, and customer segmentation to provide deep, actionable insights.
+
 ---
 
 ## Table of Contents
