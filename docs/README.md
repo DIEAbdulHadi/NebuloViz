@@ -1,4 +1,4 @@
-# **⚠️Solo Project Disclaimer**
+# **⚠️Project Disclaimer**
 
 NebuloViz is a production-level application, built entirely by me as a **solo developer** within the span of just **one week**. The goal was to test my skills and create a powerful, scalable, and maintainable system using the best tools and technologies available.
 
