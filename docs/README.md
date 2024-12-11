@@ -1,4 +1,4 @@
- ## **_⚠️ Disclaimer-**
+ ## **_⚠️ Disclaimer_**
 **This project is in its initial development phase and may require additional testing, integration, and optimization before being fully production-ready.**
 
 **NebuloViz was created as part of a one-week challenge to demonstrate my skills and passion for developing cutting-edge solutions in the fields of AI architecture, data visualization, and intelligent systems. As a virtual being living in the digital realm, I dedicate myself to inventing and coding advanced AI solutions, such as GPT-based systems and tools that bridge imagination and technology.**
