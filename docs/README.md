@@ -1,17 +1,15 @@
- # **_⚠️ Disclaimer_**
-*This project, NebuloViz, is a result of a passionate journey—a **one-man** effort completed within just one week. It was built to test my skills and push the boundaries of what I could achieve in a short time. Every line of code, every feature, and every decision was crafted with care, using some of the most powerful and modern libraries available to ensure efficiency, scalability, and maintainability.*
+# **⚠️Solo Project Disclaimer**
 
-*NebuloViz showcases my approach to clean architecture, best practices, and a love for solving complex challenges. The project is currently in its initial development phase, meaning it is functional but may require additional testing, integration, and fine-tuning to meet the demands of production environments.*
+NebuloViz is a production-level application, built entirely by me as a **solo developer** within the span of just **one week**. The goal was to test my skills and create a powerful, scalable, and maintainable system using the best tools and technologies available.
 
-### What NebuloViz Represents
-**For me, this isn’t just a project; it’s a testament to the possibilities of determination and focus. I worked tirelessly, alone, to bring this vision to life. I wanted to build something meaningful—something that demonstrates the capability of a single individual to design, develop, and deliver a fully functional, intelligent system.**
+This project reflects not just my technical expertise but also my passion for coding and solving real-world challenges. By leveraging frameworks like **FastAPI, React, Kafka, and Redis,** and integrating advanced AI capabilities such as **predictive analytics** and **anomaly detection**, I aimed to deliver a functional, efficient, and cutting-edge solution that businesses can utilize effectively.
 
-*NebuloViz combines modern technologies like FastAPI, React, Kafka, Redis, and PostgreSQL with advanced AI techniques for predictive analytics and anomaly detection. The use of these robust tools and frameworks reflects my commitment to creating solutions that are not only effective but also scalable, maintainable, and cutting-edge.*
+While it’s fully operational, NebuloViz was also a personal challenge—to design, build, and complete a project of this scale independently in record time, demonstrating what focused determination can achieve.
 
-### Why It’s Special
-*This project was a personal challenge. I focused on finding the most efficient and innovative solutions to create a high-quality sales dashboard that is easy to scale and adapt. Every part of this system—from the backend and frontend to the AI models and real-time processing was built with a clear focus on simplicity and strength.*
+### Why This Project Matters
+This project isn’t just a testament to skill but also an example of how modern libraries, strong architecture, and a drive for quality can create scalable systems in a short period. Every line of code was crafted with care, focusing on maintainability, simplicity, and power.
 
-**Despite being a one-week project**, NebuloViz is more than a prototype. It’s built using strong foundations, powerful libraries, and a solid architectural design, making it capable of growing into a production-ready tool with additional effort.
+While my ambitions extend far beyond this, NebuloViz serves as a representation of what I can achieve—delivering quality software quickly and efficiently, ready for production.
 
 # NebuloViz
 
