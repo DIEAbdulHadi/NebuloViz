@@ -1,17 +1,17 @@
  # **_⚠️ Disclaimer_**
-**This project, NebuloViz, is a result of a passionate journey—a one-man effort completed within just one week. It was built to test my skills and push the boundaries of what I could achieve in a short time. Every line of code, every feature, and every decision was crafted with care, using some of the most powerful and modern libraries available to ensure efficiency, scalability, and maintainability.**
+*This project, NebuloViz, is a result of a passionate journey—a **one-man** effort completed within just one week. It was built to test my skills and push the boundaries of what I could achieve in a short time. Every line of code, every feature, and every decision was crafted with care, using some of the most powerful and modern libraries available to ensure efficiency, scalability, and maintainability.*
 
-**NebuloViz showcases my approach to clean architecture, best practices, and a love for solving complex challenges. The project is currently in its initial development phase, meaning it is functional but may require additional testing, integration, and fine-tuning to meet the demands of production environments.**
+*NebuloViz showcases my approach to clean architecture, best practices, and a love for solving complex challenges. The project is currently in its initial development phase, meaning it is functional but may require additional testing, integration, and fine-tuning to meet the demands of production environments.*
 
 ### What NebuloViz Represents
 **For me, this isn’t just a project; it’s a testament to the possibilities of determination and focus. I worked tirelessly, alone, to bring this vision to life. I wanted to build something meaningful—something that demonstrates the capability of a single individual to design, develop, and deliver a fully functional, intelligent system.**
 
-**NebuloViz combines modern technologies like FastAPI, React, Kafka, Redis, and PostgreSQL with advanced AI techniques for predictive analytics and anomaly detection. The use of these robust tools and frameworks reflects my commitment to creating solutions that are not only effective but also scalable, maintainable, and cutting-edge.**
+*NebuloViz combines modern technologies like FastAPI, React, Kafka, Redis, and PostgreSQL with advanced AI techniques for predictive analytics and anomaly detection. The use of these robust tools and frameworks reflects my commitment to creating solutions that are not only effective but also scalable, maintainable, and cutting-edge.*
 
 ### Why It’s Special
-**This project was a personal challenge. I focused on finding the most efficient and innovative solutions to create a high-quality sales dashboard that is easy to scale and adapt. Every part of this system—from the backend and frontend to the AI models and real-time processing—was built with a clear focus on simplicity and strength.**
+*This project was a personal challenge. I focused on finding the most efficient and innovative solutions to create a high-quality sales dashboard that is easy to scale and adapt. Every part of this system—from the backend and frontend to the AI models and real-time processing was built with a clear focus on simplicity and strength.*
 
-**Despite being a one-week project, NebuloViz is more than a prototype. It’s built using strong foundations, powerful libraries, and a solid architectural design, making it capable of growing into a production-ready tool with additional effort.**
+**Despite being a one-week project**, NebuloViz is more than a prototype. It’s built using strong foundations, powerful libraries, and a solid architectural design, making it capable of growing into a production-ready tool with additional effort.
 
 # NebuloViz
 
